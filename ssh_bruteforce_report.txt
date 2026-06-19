@@ -1,0 +1,13 @@
+SSH Brute Force Analysis Report
+===============================
+
+Failed SSH Login Summary
+------------------------
+45.155.205.233 : 5 failed attempts
+185.220.101.45 : 3 failed attempts
+103.99.0.122 : 1 failed attempts
+
+Potential Brute Force Activity
+------------------------------
+ALERT: 45.155.205.233 generated 5 failed SSH login attempts against user(s): root
+ALERT: 185.220.101.45 generated 3 failed SSH login attempts against user(s): admin
